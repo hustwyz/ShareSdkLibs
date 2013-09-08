@@ -11,10 +11,14 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static int ssdk_auth_title_back=0x7f020000;
-        public static int ssdk_back_arr=0x7f020001;
-        public static int ssdk_logo=0x7f020002;
-        public static int ssdk_title_div=0x7f020003;
+        public static int auth_cb=0x7f020000;
+        public static int auth_follow_bg=0x7f020001;
+        public static int auth_follow_cb_chd=0x7f020002;
+        public static int auth_follow_cb_unc=0x7f020003;
+        public static int ssdk_auth_title_back=0x7f020004;
+        public static int ssdk_back_arr=0x7f020005;
+        public static int ssdk_logo=0x7f020006;
+        public static int ssdk_title_div=0x7f020007;
     }
     public static final class string {
         public static int douban=0x7f030014;
